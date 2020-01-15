@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-rest-user-crud
+Implementation-Version: 1.0.0
+Built-By: Faten
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-rest-user-crud
+Created-By: Maven Integration for Eclipse
+
